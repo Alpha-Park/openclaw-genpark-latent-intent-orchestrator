@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-latent-intent-orchestrator",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Latent Intent Orchestrator - POMDP belief state estimator and disambiguation engine with Shannon entropy thresholding.",
+  "tools": [
+    "update_pomdp_intent_belief",
+    "calculate_intent_entropy",
+    "track_goal_dag_progression"
+  ]
+}
